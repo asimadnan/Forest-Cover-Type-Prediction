@@ -4,7 +4,7 @@ Data Science Project Proposal
 Group Members
 ---
 * Asim Adnan Eijaz 45565694
-* Asma Mir
+* Asma Asma 45766568
 * Sonali 45765707
 * Siddhi
 
@@ -15,12 +15,12 @@ The cover type for each observation, which is a 30 x 30 meter cell, is from US F
 
 
 ### Goals
-The main goal of this project will be to build a predictive model that can classify forest cover type based on all cartographic variables. There are 6 possible forest cover types.
+The main goal of this project is to build a predictive model that can classify forest cover type based on all cartographic variables. There are 6 possible forest cover types.
 * Correlation between the variables to explore any significant relationships or collinearity
 * Analyse Distance variables
 * Analyse Soil types
 * Analyse Elevation type
-* Create a baseline Liner Regression Model
+* Create a baseline Linear Regression Model
 * Feature extractions
 * Linear Model with extracted Features
 * Build a Naive Bayes Model with extracted feature
@@ -53,3 +53,10 @@ The 6 outcome variables are the cover types (cover_type):
 
 This data is based on the Roosevelt National Forest of Northern Colorado's  wilderness areas.
 The raw data needs to cleaned by removing/imputing outliers and missing values. Each variable is explored and it's distribution is checked.
+
+### Expected Techniques
+To achieve the goal of building a predictive model that classifies forest cover type, considering all the cartographic variables, Following techniques will be used:
+* Linear Regression:  The baseline model of the data will be based on linear regression. Our objective is to get better accuracy than the baseline model.
+* Feature Extraction: It is a process that allows automatic selection of those features in the data that contribute most to the desired output. The feature extraction techniques our model will consist of are, Recursive Feature Elimination (RFE) and Feature Importance. RFE recursively removes features and builds a model on the remaining featres.Feature Importance uses decision trees like Extra Trees to estimate feature importance.
+* Naive Bayes Model: We will perform the Naive Bayes classifier on our extracted features. It is a classification technique based on Bayes' Theorem which assumes that the features are independent and all features have an equal effect on the outcome.
+* Nueral Network: The neural network will be built on the extracted features to successively refine the extracted features removing unneccessary information to match desired model.
