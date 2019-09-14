@@ -27,7 +27,9 @@ The main goal of this project will be to build a predictive model that can class
 * Build a Neural Network with Extracted features
 
 ### Dataset description
-The data used in this project is a forest cover-type dataset. It is obtained from the UCI Machine Learning Repository. The dataset contains 581012 observations in total which consists of 54 variables and 6 outcome variables. The data is in raw format and contains binary (0 or 1) columns for the qualitative independent variables. The 54 variables (including their datatypes) are:
+The data used in this project is a forest cover-type dataset. It is obtained from the UCI Machine Learning Repository. The dataset contains 581012 observations in total which consists of 54 variables and 6 outcome variables. The data is in raw format and contains binary (0 or 1) columns for the qualitative independent variables.
+
+The 54 variables (including their datatypes) are:
 * Elevation (Quantitative)
 * Aspect (Quantitative)
 * Slope (Quantitative)
@@ -40,6 +42,7 @@ The data used in this project is a forest cover-type dataset. It is obtained fro
 * Horizontal_Distance_To_Fire_Points (Quantitative)
 * Wilderness_Area - 4 binary columns (Qualitative)
 * Soil_Type - 40 binary columns (Qualitative)
+
 The 6 outcome variables are the cover types (cover_type): 
 * Type 1 - Spruce/fir (Integer - 1)
 * Type 2- Lodgepole pine (Integer -2)
