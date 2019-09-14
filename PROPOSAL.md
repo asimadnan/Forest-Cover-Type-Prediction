@@ -50,5 +50,6 @@ The 6 outcome variables are the cover types (cover_type):
 * Type 4- Cottonwood/willow (Integer -4)
 * Type 5- Spruce/fir and aspen (Integer -5)
 * Type 6- Douglas-fir (Integer -6)
+
 This data is based on the Roosevelt National Forest of Northern Colorado's  wilderness areas.
 The raw data needs to cleaned by removing/imputing outliers and missing values. Each variable is explored and it's distribution is checked.
