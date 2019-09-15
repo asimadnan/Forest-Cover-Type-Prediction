@@ -60,3 +60,13 @@ To achieve the goal of building a predictive model that classifies forest cover 
 * Feature Extraction: It is a process that allows automatic selection of those features in the data that contribute most to the desired output. The feature extraction techniques our model will consist of are, Recursive Feature Elimination (RFE) and Feature Importance. RFE recursively removes features and builds a model on the remaining featres.Feature Importance uses decision trees like Extra Trees to estimate feature importance.
 * Naive Bayes Model: We will perform the Naive Bayes classifier on our extracted features. It is a classification technique based on Bayes' Theorem which assumes that the features are independent and all features have an equal effect on the outcome.
 * Nueral Network: The neural network will be built on the extracted features to successively refine the extracted features removing unneccessary information to match desired model.
+
+### Project Milestones
+* Data Pre-Processing and Baseline Modelling : **Week 8**
+Pre-processing the raw data by using various techniques to remove the impurities in it and to have a clean dataset for baseline modelling.
+* Feature Extraction : **Week 9**
+Apply feature extraction on the processed dataset to obtain the features that are contributing the most to the desired output.
+* Create 3 new models and Evaluation : **Week 10**
+Determining and creation of 3 different models and perform analysis.
+* Complete Report : **Week 11**
+Have a complete report in jupyter notebook with purposeful analysis required.
