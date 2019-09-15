@@ -62,11 +62,11 @@ To achieve the goal of building a predictive model that classifies forest cover 
 * Nueral Network: The neural network will be built on the extracted features to successively refine the extracted features removing unneccessary information to match desired model.
 
 ### Project Milestones
-* Data Pre-Processing and Baseline Modelling : **Week 8**
+* Data Pre-Processing and Baseline Modelling : **Week 8**  
 Pre-processing the raw data by using various techniques to remove the impurities in it and to have a clean dataset for baseline modelling.
-* Feature Extraction : **Week 9**
+* Feature Extraction : **Week 9**  
 Apply feature extraction on the processed dataset to obtain the features that are contributing the most to the desired output.
-* Create 3 new models and Evaluation : **Week 10**
+* Create 3 new models and Evaluation : **Week 10**  
 Determining and creation of 3 different models and perform analysis.
-* Complete Report : **Week 11**
+* Complete Report : **Week 11**  
 Have a complete report in jupyter notebook with purposeful analysis required.
