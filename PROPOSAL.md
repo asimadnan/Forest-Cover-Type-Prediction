@@ -74,5 +74,6 @@ Determining and creation of 3 different models using techniques as Linear Regres
 Have a complete report in jupyter notebook with purposeful analysis required.
 
 ### References
-Data Source: https://archive.ics.uci.edu/ml/datasets/covertype
+Data Source: https://archive.ics.uci.edu/ml/datasets/covertype 
+
 Relevent Papers: Blackard, Jock A. and Denis J. Dean. 2000. "Comparative Accuracies of Artificial Neural Networks and Discriminant Analysis in Predicting Forest Cover Types from Cartographic Variables." Computers and Electronics in Agriculture 24(3):131-151. [Web Link](http://rexa.info/paper/d44ba72ee840ac929fb2b78f6d9f6c6b408ff1da)
