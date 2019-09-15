@@ -65,8 +65,8 @@ To achieve the goal of building a predictive model that classifies forest cover 
 * Data Pre-Processing and Baseline Modelling : **Week 8**  
 Pre-processing the raw data by using various techniques to remove the impurities in it and to have a clean dataset for baseline modelling.
 * Feature Extraction : **Week 9**  
-Apply feature extraction on the processed dataset to obtain the features that are contributing the most to the desired output.
+Apply feature extraction on the processed dataset to obtain the features that are contributing the most to the desired output to further create 3 models.
 * Create 3 new models and Evaluation : **Week 10**  
-Determining and creation of 3 different models and perform analysis.
+Determining and creation of 3 different models using techniques as Linear Regression, Naive Bayes Model and Neural Network on the extracted features to perform analysis.
 * Complete Report : **Week 11**  
 Have a complete report in jupyter notebook with purposeful analysis required.
