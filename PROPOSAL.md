@@ -5,8 +5,8 @@ Group Members
 ---
 * Asim Adnan Eijaz 45565694
 * Asma Asma 45766568
-* Sonali 45765707
-* Siddhi
+* Sonali Baliwada 45765707
+* Siddhi Vilas Utekar 45814228
 
 ### Title: Predicting Forest Cover Types from Cartographic Variables
 Natural resource manager have the duty of developing ecosystem management strategies, for this they require basic descriptive information of forested lands to create better strategies. Generally these managers don't have access to data of lands next to their own jurisdiction. One way this could be extracted is through predictive modelling.
@@ -44,7 +44,7 @@ The 54 variables (including their datatypes) are:
 * Wilderness_Area - 4 binary columns (Qualitative)
 * Soil_Type - 40 binary columns (Qualitative)
 
-The 6 classes of outcome variable are the cover types (cover_type): 
+The 6 classes of outcome variable are the cover types (cover_type):
 * Type 1 - Spruce/fir (Integer - 1)
 * Type 2- Lodgepole pine (Integer -2)
 * Type 3-  Ponderosa pine (Integer -3)
@@ -74,6 +74,6 @@ Determining and creation of 3 different models using techniques as Linear Regres
 Have a complete report in jupyter notebook with purposeful analysis required.
 
 ### References
-Data Source: https://archive.ics.uci.edu/ml/datasets/covertype 
+Data Source: https://archive.ics.uci.edu/ml/datasets/covertype
 
 Relevent Papers: Blackard, Jock A. and Denis J. Dean. 2000. "Comparative Accuracies of Artificial Neural Networks and Discriminant Analysis in Predicting Forest Cover Types from Cartographic Variables." Computers and Electronics in Agriculture 24(3):131-151. [Web Link](http://rexa.info/paper/d44ba72ee840ac929fb2b78f6d9f6c6b408ff1da)
