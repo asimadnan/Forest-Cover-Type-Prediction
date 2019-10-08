@@ -45,13 +45,13 @@ The 54 variables (including their datatypes) are:
 * Soil_Type - 40 binary columns (Qualitative)
 
 The 6 classes of outcome variable are the cover types (cover_type):
-* Type 1 - Spruce/fir (Integer - 1)
+* Type 1- Spruce/fir (Integer - 1)
 * Type 2- Lodgepole pine (Integer -2)
-* Type 3-  Ponderosa pine (Integer -3)
+* Type 3- Ponderosa pine (Integer -3)
 * Type 4- Cottonwood/willow (Integer -4)
-* Type 5- Spruce/fir and aspen (Integer -5)
+* Type 5- Aspen (Integer -5)
 * Type 6- Douglas-fir (Integer -6)
-
+* Type 6- Krummholz (Integer -7)
 This data is based on the Roosevelt National Forest of Northern Colorado's  wilderness areas.
 The raw data needs to be cleaned by removing/imputing outliers and missing values, checked for duplicates. Each variable will be explored and its distribution will be analysed.
 
