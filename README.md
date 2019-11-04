@@ -31,6 +31,7 @@ The Project Notebook is written in Python 3, using the following libraries and p
 * [Data Preperation](#Data Preperation)
 * [Techniques and Methods](#Techniques and Methods)
 * [Conclusion](#Conclusion)  
+* [References](#References)
 
 
 ### Files
@@ -62,4 +63,9 @@ The goal of building a predictive model that classifies forest cover type, consi
 
 ### Conclusion
 The best predictive model is Neural Network giving a 71.9% accuracy on test data, second best model is KNN with k =2. All the models mentioned above always gave a lower accuracy for selected features compared to using all features. Some other feature selection tenchinque could be applied to get a better outcome.
+
+### References
+Data Source: https://archive.ics.uci.edu/ml/datasets/covertype
+
+Research Paper: Blackard, Jock A. and Denis J. Dean. 2000. "Comparative Accuracies of Artificial Neural Networks and Discriminant Analysis in Predicting Forest Cover Types from Cartographic Variables." Computers and Electronics in Agriculture 24(3):131-151. [Web Link](http://rexa.info/paper/d44ba72ee840ac929fb2b78f6d9f6c6b408ff1da)
 
