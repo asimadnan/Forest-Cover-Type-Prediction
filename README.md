@@ -27,9 +27,9 @@ The Project Notebook is written in Python 3, using the following libraries and p
 
 ### Contents
 * [Files](#Files)
-* [Data Exploration](#Data Exploration)
-* [Data Preperation](#Data Preperation)
-* [Techniques and Methods](#Techniques and Methods)
+* [Data Exploration](#Data-Exploration)
+* [Data Preperation](#Data-Preperation)
+* [Techniques and Methods](#Techniques-and-Methods)
 * [Conclusion](#Conclusion)  
 * [References](#References)
 
@@ -60,6 +60,7 @@ The goal of building a predictive model that classifies forest cover type, consi
 * Naive bayes model tested on the balanced test and train data as well as selected features.
 * KNN tested on the balanced test and train data as well as selected features.
 * Nueral Network built on the balanced test and train data as well as selected features.
+* Decision Tree model was built on the balanced test and train data as well as selected features.
 
 ### Conclusion
 The best predictive model is Neural Network giving a 71.9% accuracy on test data, second best model is KNN with k =2. All the models mentioned above always gave a lower accuracy for selected features compared to using all features. Some other feature selection tenchinque could be applied to get a better outcome.
